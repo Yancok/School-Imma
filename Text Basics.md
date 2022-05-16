@@ -50,8 +50,7 @@ Je kan comments maken in u text file door `>` te doen voor u text zodat het als 
  Als je een youtube video wilt inzetten moet je deze command line invoeren ik zal hem 1 keer zoals het voorbeeld zetten en de andere keer hoe jij hem zelf maakt.  
  `<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>`
-___
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>`  
 En zo maak je hem zelf.  
   
 `<a href="`Link`" target="_blank"><img src="`Foto Video`" 
