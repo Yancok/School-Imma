@@ -34,4 +34,4 @@ Multithreading => Binnen 1 applicatie meerdere code-paden/functie gelijktijdg ui
 Multitasking => Meerdere processen tegelijk uitvoeren (OS geeft aan elk proces op het gepaste tijdstip rekenkracht van een processor).  
 Thread => opeenvolging van geprogrammeerde instructies  
 WoL => Wake-on Lan  
-
+TINeye => Reverse image processing en mensen opzoeken daarmee.  
