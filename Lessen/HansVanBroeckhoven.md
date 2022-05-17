@@ -12,6 +12,8 @@ Meneer depuydt website.
 Sysinternals.com  
 Sysinternals is een set van tools die Inzicht geven over de (interne) werking van Windows.  
 White hat, Grey hat and Black hat hun betekenis. (niet belangerijk)  
+Basis schema besturtingssysteem.  
+Virtueel Geheugen.  
 
 ___
 ### Belangrijke termen in de les
@@ -20,3 +22,13 @@ Tensor Flow => een Software voor Machinelearning en Artifical Intelligence.
 ASIC => application-specific integrated circuit.  
 Client besturingsysteem (of Client- OS) => focust op een goede UX (User Experience)  
 Server-OS => focust op services in de achtergrond te draaien.  
+  
+  
+#### 17 Mei 2022
+Systeemprogrammatuur => OS's, Drivers  
+Toepassingsprogrammatuur => Applicaties, Powershell   
+kernel-space => Alles wat zich in de kern afspeelt  
+User-space => Alles wat de User kan doen bv. Applicaties    
+Multithreading => Binnen 1 applicatie meerdere code-paden/functie gelijktijdg uitvoeren.    
+Multitasking => Meerdere processen tegelijk uitvoeren (OS geeft aan elk proces op het gepaste tijdstip rekenkracht van een processor).  
+Thread => opeenvolging van geprogrammeerde instructies  
