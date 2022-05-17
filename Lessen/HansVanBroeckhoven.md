@@ -14,7 +14,8 @@ Sysinternals is een set van tools die Inzicht geven over de (interne) werking va
 White hat, Grey hat and Black hat hun betekenis. (niet belangerijk)  
 Basis schema besturtingssysteem.  
 Virtueel Geheugen.  
-
+`System calls` tracen.  
+Kernel Uitleg, Ring 0 -> Alle rechten, Ring 1 -> Drivers, Ring 2 -> Enkel systeemcalls en weinig rechten.  
 ___
 ### Belangrijke termen in de les
 #### 16 Mei 2022
@@ -32,3 +33,5 @@ User-space => Alles wat de User kan doen bv. Applicaties
 Multithreading => Binnen 1 applicatie meerdere code-paden/functie gelijktijdg uitvoeren.    
 Multitasking => Meerdere processen tegelijk uitvoeren (OS geeft aan elk proces op het gepaste tijdstip rekenkracht van een processor).  
 Thread => opeenvolging van geprogrammeerde instructies  
+WoL => Wake-on Lan  
+
