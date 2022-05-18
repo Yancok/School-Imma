@@ -3,4 +3,7 @@
 > Alleen wanneer ik mij verveel werk ik hier aan negen van de tien.  
 > Misschien later zet ik hem online ofzo.
   
-Text
+## NAS maken
+> Network Attached Storage maken van een oude Laptop die niet meer gebruikt wordt.  
+> En later om te zetten in mischien een Minecraft server.  
+## Alles links die gebruikt worden:
