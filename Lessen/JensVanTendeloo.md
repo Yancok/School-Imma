@@ -14,3 +14,17 @@ De pijl staat voor een `Inherit`
 **Abstract**: Moet je de Methode overschrijven.  
 **Virtual**: Mag je de Methode overschrijven.  
 `Override` om de **Abstact** code in de superklasse te beinvloeden.  
+### 17 Mei 2022  
+***Klassen***  
+* -Velden zijn geheugen plaatsen  
+* +Eigenschappen lezen en schrijven data  
+* +Methdode Bewerkingen uitvoeren
+  * Functies  
+  * Procedure
+*  Constructor, (vergeten)  
+`(- Kan je niet overerven, en + wel)`  
+Constructor is `klassen` gebonden en kan je niet overerven.  
+  
+![image](https://user-images.githubusercontent.com/105280571/169226775-3c84dd84-f97a-405c-af9f-95c18ba1fc91.png)     
+Eigenschappen: Voornaam, Achternaam, Loon   
+Methodes: Code, RSZ   
