@@ -13,7 +13,7 @@ Servers moeten vertrouwbaar zijn.
 Server CPU voorbeeld Intel Xeon.  
 Xeon support dan ook de ECC RAM (Error-Correcting Code) wat een normale CPU niet doet.  
 ECC RAM checkt data voor memory errors die mogelijk een server neerhalen en die voorkomen. blijkbaar support AMD CPU's deze RAM wel maar intel niet.  
-> RAID   
+> RAID of `Redundant Array of Independent Disks` zorgt ervoor dat dezelfde data over 2 harde schijfen staat geschreven tegelijk zodat als 1 schijf kapot gaat je nog een backup hebt van de andere harde schijf.  
 
 Server OS moeten krachtig en stabiel zijn.
 Types Servers|Doel|
