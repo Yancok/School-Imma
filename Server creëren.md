@@ -21,6 +21,15 @@ Types Servers|Doel|
 Web server| Host een website, de Server behoudt al de data van de website en code.|
 Email Server|Stuurt of krijgt email door u webbrowser of door een email client.|
 Database| Bewaard data in de backend en haalt ze terug op in de Frontend bv SQL.|
+---
+
+## Ubuntu Server
+Install u .iso bestand in de VM en volg de stappen van de OS.  
+Vul al de dingen die u wilt in en wacht tot de installatie klaar is.  
+> ***WEES ZEKER DAT NETWERK AAN STAAT BIJ DE INSTELLINGEN VAN DE VM***  
+
+Deze .iso is CLI alleen dus geen GUI.  
+Nadat je bent ingelogt geeft Ubuntu u een welkom en herinnerd u eraan als je administrator command wilt uitvoeren dat je `root` of `sudo (command)` moet doen.  
 
 
 ## NAS maken
@@ -31,6 +40,7 @@ Database| Bewaard data in de backend en haalt ze terug op in de Frontend bv SQL.
 > 
 ## Alles links die gebruikt worden:
 * [Uitleg wat een server is `simpel`](https://www.youtube.com/watch?v=UjCDWCeHCzY&list=WL&index=9)
-* https://youtu.be/zPmqbtKwtgw?list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i ==> Linus techtips  
+* [Your Old PC is Your New Server, Linus techtips](https://youtu.be/zPmqbtKwtgw?list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i)
+* [Download Ubuntu Server .iso](https://ubuntu.com/download/server)
 * [TrueNAS ](https://www.truenas.com/) 
-* https://www.youtube.com/watch?v=-5Z_-3EBIHE&list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i&index=128 & https://quidsup.net/tutorials/?p=ubuntu-create-nas#2-installing --> Ubuntu server
+* [How to Create a NAS with Ubuntu Server](https://www.youtube.com/watch?v=-5Z_-3EBIHE&list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i&index=128) & [Documentatie](https://quidsup.net/tutorials/?p=ubuntu-create-nas#2-installing)  --> Ubuntu NAS server
