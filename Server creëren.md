@@ -31,13 +31,14 @@ Vul al de dingen die u wilt in en wacht tot de installatie klaar is.
 Deze .iso is CLI alleen dus geen GUI.  
 Nadat je bent ingelogt geeft Ubuntu u een welkom en herinnerd u eraan als je administrator command wilt uitvoeren dat je `root` of `sudo (command)` moet doen.  
 
-
+---
 ## NAS maken
 > Network Attached Storage maken van een oude Laptop die niet meer gebruikt wordt.  
 > En later om te zetten in mischien een Minecraft server.  
 ### Virtuele NAS maken
 > want ik ben wil eerste virtueel proberen voor dat ik iets op fuck lol  
-> 
+
+---
 ## Alles links die gebruikt worden:
 * [Uitleg wat een server is `simpel`](https://www.youtube.com/watch?v=UjCDWCeHCzY&list=WL&index=9)
 * [Your Old PC is Your New Server, Linus techtips](https://youtu.be/zPmqbtKwtgw?list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i)
