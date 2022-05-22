@@ -77,7 +77,7 @@ Of wel bekend als Slash Notation, is wanneer je een Subnet Mask geeft met een sl
 > bv 192.168.1.0 /24 dat betekent dat de Subnet mask 24-bit lengte is, dus 24 1's.  
 
 ### NAT
-`N`etwork `A`ddress `T`ranslation of NAT
+NAT - Network Address Translation  
 
 Neemt meerdere addressen in u netwerk en geeft 1 IP Address aan het internet waardoor het gebruik van de wereldwijde IP addressen verminderd wordt.  
 
