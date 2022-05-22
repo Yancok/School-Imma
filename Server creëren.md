@@ -28,9 +28,6 @@ Install u .iso bestand in de VM en volg de stappen van de OS.
 Vul al de dingen die u wilt in en wacht tot de installatie klaar is.  
 > ***WEES ZEKER DAT NETWERK AAN STAAT BIJ DE INSTELLINGEN VAN DE VM***  
 
-Deze .iso is CLI alleen dus geen GUI.  
-Nadat je bent ingelogt geeft Ubuntu u een welkom en herinnerd u eraan als je administrator command wilt uitvoeren dat je `root` of `sudo (command)` moet doen.  
-
 ---
 ## NAS maken
 > Network Attached Storage maken van een oude Laptop die niet meer gebruikt wordt.  
@@ -42,7 +39,6 @@ Nadat je bent ingelogt geeft Ubuntu u een welkom en herinnerd u eraan als je adm
 ## Alles links die gebruikt worden:
 * [Uitleg wat een server is `simpel`](https://www.youtube.com/watch?v=UjCDWCeHCzY&list=WL&index=9)
 * [Your Old PC is Your New Server, Linus techtips](https://youtu.be/zPmqbtKwtgw?list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i)
-* [Download Ubuntu Server .iso](https://ubuntu.com/download/server)
-* [Ubuntu Server 20.04 LTS Install - A Step by Step Guide - ](https://www.youtube.com/watch?v=xUH256WAWt0&list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i&index=126)  
+* [Download Ubuntu .iso]((https://ubuntu.com/download/desktop))  
 * [TrueNAS ](https://www.truenas.com/) 
 * [How to Create a NAS with Ubuntu Server](https://www.youtube.com/watch?v=-5Z_-3EBIHE&list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i&index=128) & [Documentatie](https://quidsup.net/tutorials/?p=ubuntu-create-nas#2-installing)  --> Ubuntu NAS server
