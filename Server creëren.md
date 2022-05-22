@@ -25,7 +25,7 @@ Database| Bewaard data in de backend en haalt ze terug op in de Frontend bv SQL.
 ## IP uitleg  
 Een IP Adress is een `identificatie`  van een Computer of Apparaat op een *Netwerk*.  
 Elke apparaat heeft er een voor communicatie bedoelingen.  
-  
+ 
 ***IPv4***  
 Een IPv4 Adress is een 32-bit adress geschreven als 4 nummer groepen gedeeld door periods.  
 Elk nummer groep dat door periods `.` verdeeld zijn noemt een **Octet**.  
@@ -59,7 +59,7 @@ Om een aan subnetting te doen is door het *veranderen* van de Default Subnet Mas
 > `11111111`.`11111111`.`11111111`.00000000 heeft 1 Netwerk en 254 hosts (Subnet Mask: 255.255.255.0).  
 > `11111111`.`11111111`.`11111111`.`1`0000000 Heeft 2 Netwerken en 126 Hosts (Subnet Mask: 255.255.255.128).   
 > `11111111`.`11111111`.`11111111`.`11`000000 Heeft 4 Netwerken en 62 Hosts (Subnet Mask: 255.255.255.192).  
-> ... Enzo verder
+> ... Enzo verder  
 > `11111111`.`11111111`.`11111111`.`111111`00 Is de limiet want dan heb je 64 Netwerken met 2 Hosts (Subnet Mask: 255.255.255.252).  
 
 Er is nog meer aan Subnetting maar dit zijn de basics.  
@@ -76,6 +76,11 @@ CIDR - Classless Inter-Domain Routing
 Of wel bekend als Slash Notation, is wanneer je een Subnet Mask geeft met een slash erachter waar de hoeveelheid 1's erin zitten in de subnet mask.  
 > bv 192.168.1.0 /24 dat betekent dat de Subnet mask 24-bit lengte is, dus 24 1's.  
 
+### NAT
+`N`etwork `A`ddress `T`ranslation of NAT
+
+Neemt meerdere addressen in u netwerk en geeft 1 IP Address aan het internet waardoor het gebruik van de wereldwijde IP addressen verminderd wordt.  
+
 ---
 ## Ubuntu Server
 Klik de link naar de Ubuntu Server site en ga naar Option 2 en download de .iso.  
@@ -85,6 +90,7 @@ Vul al de dingen die u wilt in en wacht tot de installatie klaar is.
   
 Configure u taal en toetsenbord.  
 Network connections 
+
 ---
 ## NAS maken
 > Network Attached Storage maken van een oude Laptop die niet meer gebruikt wordt.  
@@ -96,7 +102,7 @@ Network connections
 ## Alles links die gebruikt worden:
 * [Uitleg wat een server is `simpel`](https://www.youtube.com/watch?v=UjCDWCeHCzY&list=WL&index=9)
 * [Your Old PC is Your New Server, Linus techtips](https://youtu.be/zPmqbtKwtgw?list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i)
-* [Download Ubuntu Server.iso]((https://ubuntu.com/download/server))
+* [Download Ubuntu Server.iso](https://ubuntu.com/download/server)
 * [Verschillen tussen Ubuntu Desktop en Server](https://youtu.be/sJjEzek2e6I)
 * [Setup Dedicated Home File Server](https://www.youtube.com/watch?v=RDwoDj2cW6c)
 * [TrueNAS ](https://www.truenas.com/) 
