@@ -16,6 +16,10 @@ Basis schema besturtingssysteem.
 Virtueel Geheugen.  
 `System calls` tracen.  
 Kernel Uitleg, Ring 0 -> Alle rechten, Ring 1 -> Drivers, Ring 2 -> Enkel systeemcalls en weinig rechten.  
+
+#### 23 Mei 2022
+Herhalen van kennis in een vorm van een sprookje.  
+
 ___
 ### Belangrijke termen in de les
 #### 16 Mei 2022
@@ -35,3 +39,4 @@ Multitasking => Meerdere processen tegelijk uitvoeren (OS geeft aan elk proces o
 Thread => opeenvolging van geprogrammeerde instructies  
 WoL => Wake-on Lan  
 TINeye => Reverse image processing en mensen opzoeken daarmee.  
+
