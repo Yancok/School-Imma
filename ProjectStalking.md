@@ -23,7 +23,7 @@ Proberen een fake acc te maken om in haar instagram te komen.
 ![image](https://user-images.githubusercontent.com/105280571/169764906-c0b652a0-5864-4a6b-90cf-520115b143cd.png)
 
 #### Fake acc
-![image](https://user-images.githubusercontent.com/105280571/169769389-e9bd89ab-778e-43fe-8109-7381b3cc06c0.png)
+![image](https://user-images.githubusercontent.com/105280571/169770092-0f51124b-328e-4919-96c9-8d0caaf8b3c1.png)
 
 ___
 ## Links
