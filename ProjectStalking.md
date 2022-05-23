@@ -5,7 +5,7 @@
 > wij zijn gewoon wat nerds die zich vervelen en de consequenten van social media willen laten zien
 
 ## het beginpunt
-Het `Doelwit` is Lara van 5OIT
+Het `Doelwit` is *Lara Verelst* van 5OIT
 ___
 ## Links
 * [TinEye](https://tineye.com/) -> zoekt naar foto's over het internet
