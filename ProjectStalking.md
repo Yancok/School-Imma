@@ -22,6 +22,9 @@ Dus we gebruiken gewoon andere Social Media in de plaats zonder reverse imaging.
 Proberen een fake acc te maken om in haar instagram te komen.  
 ![image](https://user-images.githubusercontent.com/105280571/169764906-c0b652a0-5864-4a6b-90cf-520115b143cd.png)
 
+#### Fake acc
+![image](https://user-images.githubusercontent.com/105280571/169769389-e9bd89ab-778e-43fe-8109-7381b3cc06c0.png)
+
 ___
 ## Links
 * [TinEye](https://tineye.com/) -> zoekt naar foto's over het internet
