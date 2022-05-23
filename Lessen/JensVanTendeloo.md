@@ -28,3 +28,9 @@ Constructor is `klassen` gebonden en kan je niet overerven.
 ![image](https://user-images.githubusercontent.com/105280571/169226775-3c84dd84-f97a-405c-af9f-95c18ba1fc91.png)     
 Eigenschappen: Voornaam, Achternaam, Loon   
 Methodes: Code, RSZ   
+
+### 23 Mei 2022
+Polymorfisme = 'Meerdere vormen'  
+Methode en constructors met eenzelfde naam in 1 programma.  
+Hangt van u klasse af welke uitvoer je krijgt.  
+aantal parameters in een constructor kan onderscheidt gemaakt worden.  
