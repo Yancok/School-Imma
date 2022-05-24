@@ -33,7 +33,7 @@ Bestanden recoveren
 |![image](https://user-images.githubusercontent.com/105280571/170022507-c9f6faef-ded5-4767-bb78-d7bf8a8dccd2.png)| De instellingen van de computer bv. Grote cursor|  
 |---|---|  
 
-Halle
+In /Sysinternals
 
 ___
 ### Belangrijke termen in de les
