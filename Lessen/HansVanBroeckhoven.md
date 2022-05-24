@@ -20,6 +20,12 @@ Kernel Uitleg, Ring 0 -> Alle rechten, Ring 1 -> Drivers, Ring 2 -> Enkel systee
 #### 23 Mei 2022
 Herhalen van kennis in een vorm van een sprookje.  
 
+#### 24 Mei 2022  (Normaal KANKER SPORTDAG MAAR NEE)  
+Assembler  
+Register-editor   
+Solidity vs Vyper Uitleg erover.  
+
+
 ___
 ### Belangrijke termen in de les
 #### 16 Mei 2022
