@@ -24,7 +24,16 @@ Herhalen van kennis in een vorm van een sprookje.
 Assembler  
 Register-editor   
 Solidity vs Vyper Uitleg erover.  
+7zip File manager, shortcuts.  
+Powershell get-command.  
+ALle opgeslagen instellingen (en games) staan ergens in C:/Users/Appdata/ ook in het Registery-editor.  
+Bestanden recoveren  
 
+*Register-Editor:*
+|![image](https://user-images.githubusercontent.com/105280571/170022507-c9f6faef-ded5-4767-bb78-d7bf8a8dccd2.png)| De instellingen van de computer bv. Grote cursor|  
+|---|---|  
+
+Halle
 
 ___
 ### Belangrijke termen in de les
