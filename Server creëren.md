@@ -82,6 +82,13 @@ NAT - Network Address Translation
 Neemt meerdere addressen in u netwerk en geeft 1 IP Address aan het internet waardoor het gebruik van de wereldwijde IP addressen verminderd wordt.  
 
 ---
+## File Sharing Over A Network (Windows 10)  
+Step |***Do*** | 
+---|---|
+1.| Open Settings en ga naar`Network & Internet`|
+2.| Change to a Private Network by `
+
+---
 ## Ubuntu Server
 Klik de link naar de Ubuntu Server site en ga naar Option 2 en download de .iso.  
 Install u .iso bestand in de VM en volg de stappen van de OS.  
