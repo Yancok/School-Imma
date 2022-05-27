@@ -63,7 +63,7 @@ strVoorbeeld`.Trim()` | Voorbeeld | Verwijdert de Spaties voor- en achter de str
 
 ## Random Methodes
 > Declaratie: `Random rndGetal = new Random()`
-> > *OP HET EXAMEN KAN JE DIT ALLEMAAL TERUG VINDEN BIJ* ***OBJECT BROWSER*** en tik je in `System.Math` of `Math`  
+> > *OP HET EXAMEN KAN JE DIT ALLEMAAL TERUG VINDEN BIJ* ***OBJECT BROWSER*** en tik je in `System.Random` of `Random`  
 > Daar staat ook de uitleg in hoe je het toepast.
 
 *Ingebouwde Methode* | *Uitvoer/Aanpassing*| *Uitleg* |
@@ -72,9 +72,9 @@ intGetal = rndGetal`.Next([Min],[Max])` | 1 of 2 of ... of 9 | Geeft een getal t
 dblGetal = rndGetal`.NextDouble()` | 0,0 | Geef een random Komma getal |
 
 ## Array Methodes
-> Declaratie: `int[] arrGetallen = new int[10]` 
+> Declaratie: `int[] arrGetallen = new int[10]`   
 > Dit maakt een Array van 10 lang dus van 0 tot en met 9.
-> > *OP HET EXAMEN KAN JE DIT ALLEMAAL TERUG VINDEN BIJ* ***OBJECT BROWSER*** en tik je in `System.Math` of `Math`  
+> > *OP HET EXAMEN KAN JE DIT ALLEMAAL TERUG VINDEN BIJ* ***OBJECT BROWSER*** en tik je in `System.Array` of `Array`  
 > Daar staat ook de uitleg in hoe je het toepast.
 
 Belangerijke code| Uitleg|
@@ -89,8 +89,24 @@ Belangerijke code| Uitleg|
 
 
 ## List Methodes
+> Declaratie: `List<int> lstGetallen = new List<int>()`   
+> Dit maakt een Array van 10 lang dus van 0 tot en met 9.
+> > *OP HET EXAMEN KAN JE DIT ALLEMAAL TERUG VINDEN BIJ* ***OBJECT BROWSER*** en tik je in `System.List` of `List`  
+> Daar staat ook de uitleg in hoe je het toepast.
+
+Belangerijke code| Uitleg|
+---|---|
+![image](https://user-images.githubusercontent.com/105280571/170707702-be708e16-be0c-403a-b733-5dd5977126ce.png)| Moet je schrijven anders gaat list niet werken.|
 
 
+*Ingebouwde Methode* | *Uitleg* |
+---|---|
+lstGetallen`.Add("Voorbeeld")` | Sorteerd de List |
+lstGetallen`.Insert([index],"Voorbeeld")` | Keert de List om |
+lstGetallen`.Count` | Telt aantal elementen in de lijst |
+lstGetallen`.Clear()` | Maakt de lijst leeg |
+lstGetallen`.RemoveAt([index])` | Verwijdert het element op de index plaats |
+lstGetallen`.Remove("Voorbeeld")` | Verwijdert het Eerst voorkomende "Voorbeeld" |
 ___
 # OOP
 ___
