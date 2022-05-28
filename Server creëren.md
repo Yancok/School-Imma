@@ -82,6 +82,59 @@ NAT - Network Address Translation
 Neemt meerdere addressen in u netwerk en geeft 1 IP Address aan het internet waardoor het gebruik van de wereldwijde IP addressen verminderd wordt.  
 
 ---
+
+## DHCP
+DHCP - Dynamic Host Configuration Protocol
+
+Elke computer heeft een IP Address voor communicatie doelen.  
+Er zijn 2 Manieren hoe je een computer een IP address geeft:  
+* Static IP
+  * Een User geeft het IP Address manueel in.  
+  * Er kon hierdoor een IP conflict onstaan waardoor deze niet kunnen verbinden met het Netwerk
+* Dynamic IP
+  * Automatisch genereet die een Computer een IP Address, Subnet Mask, Default gateway en DNS server en geeft die door aan de computer.   
+  * Het geeft een Ip Address als een Lease, een Lease is een tijdelijk IP Address.  
+  * Dit doet die zodat die niet uit Ip Addresses geraakt
+
+Als je de settings wilt zien voer je deze command uit in u CMD `Ipconfig /all`.  
+De Scope is de range hoeveel Ip Addresses de DHCP server kan geven.  
+
+Je kan een reservation maken op de DHCP server zodat die langs u MAC address u altijd dezelfde Ip Address ga geven.   
+Deze reservatie geef je aan Apparatuur die nood hebben aan een vast Ip Address bv.  Servers, Routers, ...   
+
+DHCP is een Service dat runt op een Server maar ook op u Routers.  
+
+---
+
+## DNS server
+DNS - Domain Name System
+
+Verandert Domain Names naar Ip Addresses en zoekt de juiste website.  
+> Bv je kan naar Google.com gaan of het Ip Address van Google.com in tikken en je zou hetzelfde krijgen.  
+
+ DNS Steps:
+ * Kijkt eerst of het IP address in je eigen Cache Memory zit. Zo, nee dan.  
+ * Dan stuurt hij het door naar de Resolver Server. Resolver = ISP (Internet Service Provider)  
+ * Als de Resolver het niet vindt in zijn Cache Memory stuurt hij het verder door naar de Root Server.  
+ * De Root Server stuurt de Resolver door naar de TLD Server (Top Level Domain).  
+ * De Resolver vraagt het IP aan de TLD Server en TLD stuurt hem door naar de Authoritative Name Servers.  
+ * De Authoritative Name Servers geeft het IP Addres aan de Resolver.  
+ * De Resolver geeft het Ip Address aan de Computer
+ * De Resolver Onthoud het Ip Address in zijn Cache Memory in geval dat deze nog is nodig is.  
+
+De **Root Server**  is het hoogste in de DNS hierarchy.  
+13 Root Servers zijn geplaatst over de wereld waarvan ze door 12 verschillende organisaties geopereerd worden.  
+Elk Root Server heeft zijn eigen IP Address.  
+
+De **Top Level Domain Server** houdt het address informatie van domeinen bij bv. .com, .net, .org  
+
+De **Authoritative Name Servers** deze moeten alles weten over het Domein.  
+
+---
+
+## MAC Address  
+
+---
 ## Bestanden delen over een Netwerk (Windows 10)  
 ### Computer klaarmaken voor Bestanden Deling:
 Stap |***Uitleg*** | Foto|
@@ -140,3 +193,4 @@ Network connections
 * [Setup Dedicated Home File Server](https://www.youtube.com/watch?v=RDwoDj2cW6c)
 * [TrueNAS ](https://www.truenas.com/) 
 * [How to Create a NAS with Ubuntu Server](https://www.youtube.com/watch?v=-5Z_-3EBIHE&list=PL8IHkci_kZpA6lGtS4jpvIFFe8l7eqO3i&index=128) & [Documentatie](https://quidsup.net/tutorials/?p=ubuntu-create-nas#2-installing)  --> Ubuntu NAS server
+* [Playlist Networking](https://www.youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg)
