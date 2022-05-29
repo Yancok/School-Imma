@@ -109,5 +109,54 @@ lstGetallen`.RemoveAt([index])` | Verwijdert het element op de index plaats |
 lstGetallen`.Remove("Voorbeeld")` | Verwijdert het Eerst voorkomende "Voorbeeld" |
 ___
 # OOP
+OOP - Object oriented Programming
+
+Objecten: Console, Form, button, ... worden beschreven in een Klasse.  
+![image](https://user-images.githubusercontent.com/105280571/170867922-720d60b2-c00c-4f96-bd50-882f72e3c2b5.png)  
+**Klassen** gebruiken vwe om *Objecten* te beschrijven.  
+*Klassen* die bij elkaar horen, groeperen we in een **Namespace**.  
+
+Het *LagenModel* bestaat uit twee Lagen, de Presentation Layer en de Business Layer en wij programmeren in de **Business Layer**.  
+
+De werkmanieren:  
+* TOP-DOWN
+  * Goed voor kleine programma's
+  * Code is bijna niet flexibel en zelden *herbuikbaar*
+* BOTTOM-UP
+  * Zoeken naar objecten
+  * Klassen schrijven
+  * Geschikt voor *complexe* programma's en *hergebruik*
+ 
+ **Members** van de Klasse | *Uitleg* |*Voorbeeld* | *Overerven* | 
+---|---|---|---|
+Velden | Zijn geheugen plaatsen | Naam, Achternaam | Nee |
+Eigenschappen| Lezen/Schrijven van Data | Lengte, Leeftijd, Vachtkleur | Ja |
+Methodes | Bewerkingen uitvoeren | Functies, Procdures | Ja |
+Functies | `Methodes` met een ***Return*** waarde | Lopen, Blaffen | Ja |
+Procedures | `Methodes` **Zonder** Return waarde | / | Ja |
+Constructors | Code die wordt uitgevoerd bij het aanmaken van een object  | / | Nee |
+
+**inklapseling** zijn enkel gekend in de klasse vna het object (Private)  
+Voordelen van inkapseling:
++ Beter controle op toegankelijkheid van data  
++ Code vaan een klasse kan aangepast worden zonder andere code te beinvloeden   
+
+**Eigenschappen** worden meestal `Public` gedeclareerd zodat ze toeganklijk zijn vanuit andere klassen.
+
+*Naam* van een property heeft `2 regels`:
+1. Geen _
+2. Eerste letter Hoofdletter
+> Dus een voorbeeld: Voorbeeld  
+
+**Zeer handige foto**  
+![image](https://user-images.githubusercontent.com/105280571/170868641-d9b419d4-01ef-44de-bdde-8d17ee7fde09.png)
+
+
+Onder *objecten* kunnen verschillende vormen aannemen:  
+* **Tastbaar**: Hond,auto, persoon   
+* **Abstact**: Een ding of concept    
+* **Interactie**: Een aankoop  
+* **Een rol**: student, beheerder  
+
 ___
 # Blokschema's
