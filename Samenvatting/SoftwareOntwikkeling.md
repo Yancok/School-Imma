@@ -111,6 +111,10 @@ ___
 # OOP
 OOP - Object oriented Programming
 
+
+Download een Opdracht die verbeterd was en waar ik comments heb gezet:  
+[Voorbeeld met Comments.zip](https://github.com/Yancok/School-Imma/files/8793357/Voorbeeld.met.Comments.zip)
+
 Objecten: Console, Form, button, ... worden beschreven in een Klasse.  
 ![image](https://user-images.githubusercontent.com/105280571/170867922-720d60b2-c00c-4f96-bd50-882f72e3c2b5.png)  
 **Klassen** gebruiken vwe om *Objecten* te beschrijven.  
@@ -160,3 +164,4 @@ Onder *objecten* kunnen verschillende vormen aannemen:
 
 ___
 # Blokschema's
+
