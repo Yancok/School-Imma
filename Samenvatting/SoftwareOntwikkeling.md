@@ -162,6 +162,17 @@ Onder *objecten* kunnen verschillende vormen aannemen:
 * **Interactie**: Een aankoop  
 * **Een rol**: student, beheerder  
 
+**Superklasse** is de klasse waarmee alles verbonden in waar alle methodes samenkomen.  
+**Subklasse** is de klassse waar je alle berekeningen en toepassingen in gaat schrijven om later te verbinden met de superklasse.  
+![image](https://user-images.githubusercontent.com/105280571/171998718-9a8d9d5d-cc2d-4c6d-9e7a-23323ab9e450.png)  
+
+Een Subklasse erft alle methodes van de superklasse.
+Van de subklassen kan je Velden, Eigenschappen, Methodes `overerven` aan de superklassen.  
+Een `abstract` klassen is een superklasse waarbij je de methodes MOET aanpassen langs een subklassen met `override`.  
+Met `virtual` mag je overschrijven maar moet niet.  
+
+
+
 ___
 # Blokschema's
 
