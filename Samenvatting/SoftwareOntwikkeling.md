@@ -171,7 +171,10 @@ Van de subklassen kan je Velden, Eigenschappen, Methodes `overerven` aan de supe
 Een `abstract` klassen is een superklasse waarbij je de methodes MOET aanpassen langs een subklassen met `override`.  
 Met `virtual` mag je overschrijven maar moet niet.  
 
+Polymorfisme - 'Meerdere vormen'  
 
+Methode en constructors met eenzelfde naam in 1 programma.  
+Het progamma kan kiezen tussen de Objecten door *het aantal parameters* of *type object*
 
 ___
 # Blokschema's
